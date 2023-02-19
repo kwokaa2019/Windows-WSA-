@@ -1,2 +1,19 @@
-# Windows-WSA-
-Windows 10安裝 WSA ( Android統 子系統 (WSA with Google Play and Root)
+------------------------------------------------------------------------------------
+
+【注意事項】
+
+1.本檔為Windows10 專用版本 系統要求64位元 19045.2311以上的版本才能正常.
+
+2.必須在BIOS開啟虛擬化SVM(AMD)或VT(Intel)
+
+3.Windows10 Home版本 Hyper-V Public
+
+*Windows 10 ｜11 Home 因預設Hyper-V，必須另外安裝 Hyper-V 虛擬機方法，安裝方法參孝→https://github.com/kwokaa2019/Hyper-V
+
+【安裝方法】
+
+1.開啟微軟商店 更新至最新版...
+
+2.開啟虛擬譏平台功能 (完成後須重啟電腦)
+<a href="https://ibb.co/GdH8Krh"><img src="https://i.ibb.co/kGmwRPd/36597564258613226489vm.gif" alt="36597564258613226489vm" border="0"></a>
+------------------------------------------------------------------------------------
